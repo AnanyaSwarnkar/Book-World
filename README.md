@@ -11,5 +11,4 @@ Book World is a online text selling and reselling website.
     almost any category you seek you will find with us.
     
 #Video Glimpse of the Project
-
-Uploading BookWorld - Ananya.mp4…
+https://user-images.githubusercontent.com/97191169/237004261-8b3e2619-3a29-4834-9861-fd2ddffddec0.mp4
