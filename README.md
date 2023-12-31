@@ -10,7 +10,7 @@ Book World is a online text selling and reselling website.
     accountancy, to parenting and pregnancy, to banking and finance, to even topics on yoga and meditation 
     almost any category you seek you will find with us.
     
-#Video Glimpse of the Project
+#Video Glimpse of the Project:
 
 
 https://user-images.githubusercontent.com/97191169/237004464-4e8c60ee-acec-4b61-a6a6-4cf13da9ae5a.mp4
